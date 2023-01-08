@@ -2,6 +2,6 @@
   
 > first_repository
 
-,,,
+'''
 npm install
-,,,
+'''
