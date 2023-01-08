@@ -3,7 +3,7 @@
 > first_repository_in_development
   
   
-Status
+Status: in_dev
 
 ```
 npm install
