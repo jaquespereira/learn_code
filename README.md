@@ -1,6 +1,6 @@
 <h1> learn_code  <h1>
   
->Por aqui ru faço commit
+>Rememeber - i can commit ">"
   
 Status: in_dev
 
